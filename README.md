@@ -2,7 +2,6 @@
 
 QuickKart is a full-featured Android e-commerce application built with Kotlin, MVVM architecture, and modern Android development tools. The app demonstrates real-world functionalities like user authentication, product listing, search, cart management, offline caching, and more.
 
-![QuickKart Banner](https://via.placeholder.com/1000x300.png?text=QuickKart+Android+App)
 
 ---
 
@@ -72,9 +71,9 @@ QuickKart/
 └── README.md
 ```
 
-
-
 ```
+
+
 ## 🧪 How to Run
 
 1. Clone the repository:
