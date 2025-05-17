@@ -83,18 +83,18 @@ QuickKart/
    ```
    ---
   
-Open the project in Android Studio.
+2. Open the project in Android Studio.
 
-Add your google-services.json to /app.
+3. Add your google-services.json to /app.
 
-Make sure Firebase is properly set up:
+4. Make sure Firebase is properly set up:
 
-Firebase Auth (Email & OTP enabled)
+5. Firebase Auth (Email & OTP enabled)
 
-Build and run the app on an emulator or real device.
-```
+6. Build and run the app on an emulator or real device.
 
-```
+
+
 ### 🧠 Learnings
 Built real-world shopping features using clean architecture
 
@@ -103,9 +103,8 @@ Integrated Firebase Authentication securely
 Improved UX through real-time search, caching, and UI optimizations
 
 Learned how to manage app state using ViewModel + LiveData effectively
-```
 
-```
+
 ### 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
