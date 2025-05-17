@@ -33,6 +33,7 @@ QuickKart is a full-featured Android e-commerce application built with Kotlin, M
 
 ## 🧩 Project Structure
 
+```
 QuickKart/
 │
 ├── app/
@@ -71,7 +72,7 @@ QuickKart/
 └── README.md
 ```
 
-```
+---
 
 
 ## 🧪 How to Run
