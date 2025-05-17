@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickKart</string>
+    <string name="product_price_prefix">₹</string>
+    <string name="product_list_title">Products</string>
+</resources>
